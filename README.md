@@ -1,8 +1,8 @@
 # Note Content
 ```mermaid
-flowchart TD;
-     A-->B;
-     A-->C;
-     B-->D;
-     C-->D;
+graph
+M((Note))
+100(100 学科类)
+M-->100
 ```
+## [100.学科类](100/README.md)
